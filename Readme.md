@@ -5,4 +5,4 @@ ERROR and FAILURE
 Error is the mistake on the task,code,steps etc..
 Failure is the unwanted result like unexcepted output the code, leaning shelf etc..
 
-![iter function](iter-function.png)
+![iter function](C:\Users\furka\Desktop\distibute\iter function.png)
